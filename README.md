@@ -33,4 +33,4 @@ I'm always eager to connect with fellow developers and collaborate on interestin
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you soon! 🚀
 
-<a href="https://app.daily.dev/tazkiyamujahid"><img src="https://api.daily.dev/devcards/a1c1e4ebeaae4956ba96a083cdb22df8.png?r=b25" width="100" alt="Tazkiya Mujahid's Dev Card"/></a>
+<a href="https://app.daily.dev/tazkiyamujahid"><img src="https://api.daily.dev/devcards/a1c1e4ebeaae4956ba96a083cdb22df8.png?r=b25" width="200" alt="Tazkiya Mujahid's Dev Card"/></a>
